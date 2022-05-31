@@ -1,0 +1,58 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col24303</md:content-id>
+    <md:title>Introduction to Sociology, 2018, Chs. 17-21</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>2a923ab5-d7e2-49ed-8eb2-1efa6ce93f8f</md:uuid>
+<md:slug>introduction-to-sociology-2018-chs-17-21</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Government and Politics</md:title>
+      <col:content>
+        <col:module document="m65784"/>
+        <col:module document="m65882"/>
+        <col:module document="m65883"/>
+        <col:module document="m65881"/>
+        <col:module document="m65886"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Work and the Economy</md:title>
+      <col:content>
+        <col:module document="m65902"/>
+        <col:module document="m65918"/>
+        <col:module document="m65941"/>
+        <col:module document="m65953"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Social Movements and Social Change</md:title>
+      <col:content>
+        <col:module document="m66063"/>
+        <col:module document="m66068"/>
+        <col:module document="m66069"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Health and Medcine</md:title>
+      <col:content>
+        <col:module document="m65955"/>
+        <col:module document="m65956"/>
+        <col:module document="m65957"/>
+        <col:module document="m66014"/>
+        <col:module document="m66047"/>
+        <col:module document="m66050"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Population, Urbanization, and the Environment</md:title>
+      <col:content>
+        <col:module document="m66051"/>
+        <col:module document="m66052"/>
+        <col:module document="m66062"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
