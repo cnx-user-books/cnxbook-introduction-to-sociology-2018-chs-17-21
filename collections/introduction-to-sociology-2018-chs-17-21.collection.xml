@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Hirosuke Hyodo">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col24303</md:content-id>
     <md:title>Introduction to Sociology, 2018, Chs. 17-21</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>2a923ab5-d7e2-49ed-8eb2-1efa6ce93f8f</md:uuid>
-<md:slug>introduction-to-sociology-2018-chs-17-21</md:slug>
-</metadata>
+    <md:slug>introduction-to-sociology-2018-chs-17-21</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Government and Politics</md:title>
